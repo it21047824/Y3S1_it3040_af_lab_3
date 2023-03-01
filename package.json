@@ -2,7 +2,7 @@
   "name": "y3s1_it3040_af_lab_3",
   "version": "1.0.0",
   "description": "lab 3 exercise",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "npm start"
   },
